@@ -4,4 +4,6 @@ chromedriver_win32/chromedriver.exe
 chromedriver_win32/LICENSE.chromedriver
 result/*
 __pycache__/
-.DS_Store
+
+./.DS_Store
+./pageHtml.html
