@@ -1,0 +1,7 @@
+chromedriver_mac64/chromedriver
+chromedriver_mac64/LICENSE.chromedriver
+chromedriver_win32/chromedriver.exe
+chromedriver_win32/LICENSE.chromedriver
+result/*
+__pycache__/
+.DS_Store
